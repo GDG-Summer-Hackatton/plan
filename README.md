@@ -12,3 +12,7 @@
 ## 이미지 소스
 
   -img sources link : https://buddd.notion.site/img-sources-b55cf7c9e50a4ff2ab1dad0ccc0d9ab9
+
+## 배경 데이터 최종
+
+ -google sheet : https://docs.google.com/spreadsheets/d/1GoQyrfEHxMdAKqc1U7epveYnADpGa0apJPLpWhejBn4/edit?usp=sharing
