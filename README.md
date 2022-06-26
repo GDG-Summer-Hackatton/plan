@@ -21,3 +21,5 @@ mbti처럼 기록된 소비자의 입맛 기반의 맞춤 메뉴 추천
 ## 피칭 파일(최종)
 
   - [6팀-Chick pick.pdf](https://github.com/GDG2022-Summer-Hackatton/plan/files/8985760/6.-Chick.pick.pdf)
+  - REV1. [6팀-Chick pick alt.pdf](https://github.com/GDG2022-Summer-Hackatton/plan/files/8985783/6.-Chick.pick.alt.pdf)
+
