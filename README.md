@@ -15,5 +15,9 @@ mbti처럼 기록된 소비자의 입맛 기반의 맞춤 메뉴 추천
 
 ## 배경 데이터 최종
 
- - google sheet: https://docs.google.com/spreadsheets/d/1GoQyrfEHxMdAKqc1U7epveYnADpGa0apJPLpWhejBn4/edit?usp=sharing
- - notion: https://buddd.notion.site/buddd/GDG-f4f1050067024a529549d6af74e34856
+  - google sheet: https://docs.google.com/spreadsheets/d/1GoQyrfEHxMdAKqc1U7epveYnADpGa0apJPLpWhejBn4/edit?usp=sharing
+  - notion: https://buddd.notion.site/buddd/GDG-f4f1050067024a529549d6af74e34856
+
+## 피칭 파일(최종)
+
+  - [6팀-Chick pick.pdf](https://github.com/GDG2022-Summer-Hackatton/plan/files/8985760/6.-Chick.pick.pdf)
